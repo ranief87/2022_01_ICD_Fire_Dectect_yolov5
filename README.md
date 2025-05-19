@@ -1,5 +1,5 @@
 # 2022_01_Independent Capstone Design 
-> 동국대학교 컴퓨터공학과 개별연구 22-1
+> 동국대학교 컴퓨터공학과 개별연구 1
 > 
 > *Analysis of Accurate Fire Accident Identification Criteria based on YOLOv5*
 <br>
